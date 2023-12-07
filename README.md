@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is William Chakur
 ======================================================================================================================================
 
-I'm Computer Enginnering Student at UTFPR
+I'm Computer Engineering Student at UTFPR
 -----------------------------------------
 
 I'm an aspiring Backend developer currently immersed in the world of code, honing my skills in Python—the programming language that resonates with me the most. I believe in the power of technology to transform ideas into reality, and I'm eager to explore the vast possibilities that Backend development offers, and that's what excite me the most.
