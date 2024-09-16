@@ -4,25 +4,26 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm Computer Engineering Student at UTFPR
 -----------------------------------------
 
-I'm an aspiring Backend developer currently immersed in the world of code, honing my skills in Python—the programming language that resonates with me the most. I believe in the power of technology to transform ideas into reality, and I'm eager to explore the vast possibilities that Backend development offers, and that's what excite me the most.
+As a freelance software developer and computer engineering student, I see studying as one of the key paths to freedom. This mindset fuels my dedication to learning each day. For me, coding isn't just a skill—it's a gateway to creativity and unlocking human potential. Mastering both hardware and software opens doors to possibilities we never imagined, empowering us to create, innovate, and solve problems in ways that push the boundaries of what's possible.
 
-*   🌍  I'm based in Curitiba
-*   ✉️  You can contact me at [wmoraischakur71@gmail.com](mailto:wmoraischakur71@gmail.com)
-*   🧠  I'm learning Python, PostgreSQL, MongoDB
-*   ⚡  I have a passion for music and am currently learning to play the guitar. :)
+## Technical Skills 🛠️
+- **Languages:** JavaScript, TypeScript
+- **Frameworks & Libraries:** React, Node.js, Vite
+- **Tools & Platforms:** GitHub, Docker
 
-### Skills 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-                    </p>
-                    
 
-### Socials
-                  
-  <p align="left"> <a href="https://www.github.com/WillChakur" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+## Key Projects 📚
+- **[Todo]():** A web application developed with the purpose of mastering CRUD operations and HTTP requests.
+- **[Exchange Rates]():** A web application designed to facilitate learning and hands-on experience with JWT authentication, React for front-end development, and Docker for containerization.
 
-### Badges
+You can view these and more [here]().
 
-<b>My GitHub Stats</b>
+## Professional Goals 🚀
+- **Career Development:** Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
+- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
 
-<a href="http://www.github.com/WillChakur"><img src="https://github-readme-stats.vercel.app/api?username=WillChakur&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="WillChakur's GitHub stats" /></a>
+## Connect with Me 📬
+- 📫 [Email](mailto:wmoraischakur71@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/williamchakur)
+
+I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
