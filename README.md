@@ -13,10 +13,10 @@ As a freelance software developer and computer engineering student, I see studyi
 
 
 ## Key Projects 📚
-- **[Todo]():** A web application developed with the purpose of mastering CRUD operations and HTTP requests.
-- **[Exchange Rates]():** A web application designed to facilitate learning and hands-on experience with JWT authentication, React for front-end development, and Docker for containerization.
+- **[Todo](https://github.com/WillChakur/TO-DO-APP):** A web application developed with the purpose of mastering CRUD operations and HTTP requests.
+- **[Exchange Rates](https://github.com/WillChakur/ExchangeNow_vReact):** A web application designed to facilitate learning and hands-on experience with JWT authentication, React for front-end development, and Docker for containerization.
 
-You can view these and more [here]().
+You can view these and more [here](https://github.com/WillChakur).
 
 ## Professional Goals 🚀
 - **Career Development:** Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
